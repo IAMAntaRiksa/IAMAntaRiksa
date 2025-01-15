@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IAMAntaRiksa</h1>
 <h3 align="center">Frontend developer who's weapon of choice is Flutter, I use VueJs.</h3>
 
-- 💬 Ask me about **Dart,Clean code, and SOLID!**
+- 💬 Ask me about **Dart!**
 
 - 📫 How to reach me **imamakbarmegaantariksa@gmail.com**
 
