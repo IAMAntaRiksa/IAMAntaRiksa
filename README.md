@@ -18,5 +18,8 @@
 | --- |  --- | --- |
 | 2023 - Now | Flutter Developer / independent developer | RDGrup.id | 
 | 2023 - Now | Web Programmer with Laravel,Jquery | PT.Sumatra Unggul |
-| 2022 | Nuxt and Vue3 | SantriKoding |
+| 2022 | Nuxt,Vue3 and Laravel | SantriKoding |
 | 2022 | OOP Class T.A. | Dicoding |
+| 2022 - Now | Using GPT,VSCode,Firebase,Postman,mysql for development  | -                 |
+
+
